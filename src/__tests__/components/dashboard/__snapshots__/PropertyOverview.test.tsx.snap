@@ -1,0 +1,221 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`<PropertyOverview /> matches snapshot with data 1`] = `
+<DocumentFragment>
+  <div
+    class="bg-white p-6 rounded-lg shadow"
+  >
+    <h2
+      class="text-xl font-semibold mb-4 text-gray-800"
+    >
+      Property Overview
+    </h2>
+    <div
+      class="overflow-x-auto"
+    >
+      <table
+        class="min-w-full divide-y divide-gray-200"
+      >
+        <thead>
+          <tr>
+            <th
+              class="px-4 py-2 text-left text-xs font-medium text-gray-900 uppercase tracking-wider"
+              scope="col"
+            >
+              Property
+            </th>
+            <th
+              class="px-4 py-2 text-right text-xs font-medium text-gray-900 uppercase tracking-wider"
+              scope="col"
+            >
+              Total Reviews
+            </th>
+            <th
+              class="px-4 py-2 text-right text-xs font-medium text-gray-900 uppercase tracking-wider"
+              scope="col"
+            >
+              Avg Rating
+            </th>
+            <th
+              class="px-4 py-2 text-right text-xs font-medium text-gray-900 uppercase tracking-wider"
+              scope="col"
+            >
+              Approved
+            </th>
+            <th
+              class="px-4 py-2 text-right text-xs font-medium text-gray-900 uppercase tracking-wider"
+              scope="col"
+            >
+              Trend
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="bg-white divide-y divide-gray-100"
+        >
+          <tr>
+            <td
+              class="px-4 py-2 whitespace-nowrap font-medium text-gray-900"
+            >
+              <a
+                class="text-blue-600 hover:underline"
+                href="/property/wandsworth-flat"
+              >
+                Wandsworth Flat
+              </a>
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              12
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              4.3
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              9
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900 flex items-center justify-end"
+            >
+              <svg
+                aria-hidden="true"
+                class="lucide lucide-move-up-right"
+                fill="none"
+                height="24"
+                stroke="#01782c"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M13 5H19V11"
+                />
+                <path
+                  d="M19 5L5 19"
+                />
+              </svg>
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="px-4 py-2 whitespace-nowrap font-medium text-gray-900"
+            >
+              <a
+                class="text-blue-600 hover:underline"
+                href="/property/city-loft"
+              >
+                City Loft
+              </a>
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              7
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              0.0
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              0
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900 flex items-center justify-end"
+            >
+              <svg
+                aria-hidden="true"
+                class="lucide lucide-minus"
+                fill="none"
+                height="24"
+                stroke="#9CA3AF"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M5 12h14"
+                />
+              </svg>
+            </td>
+          </tr>
+          <tr>
+            <td
+              class="px-4 py-2 whitespace-nowrap font-medium text-gray-900"
+            >
+              <a
+                class="text-blue-600 hover:underline"
+                href="/property/riverside-apt"
+              >
+                Riverside Apt
+              </a>
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              21
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              4.0
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900"
+            >
+              0
+            </td>
+            <td
+              class="px-4 py-2 whitespace-nowrap text-right text-gray-900 flex items-center justify-end"
+            >
+              <svg
+                aria-hidden="true"
+                class="lucide lucide-move-down-right"
+                fill="none"
+                height="24"
+                stroke="#ff0000"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                viewBox="0 0 24 24"
+                width="24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M19 13V19H13"
+                />
+                <path
+                  d="M5 5L19 19"
+                />
+              </svg>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<PropertyOverview /> matches snapshot without data 1`] = `
+<DocumentFragment>
+  <div
+    class="bg-white p-6 rounded-lg shadow text-center text-gray-900"
+  >
+    No property data available.
+  </div>
+</DocumentFragment>
+`;

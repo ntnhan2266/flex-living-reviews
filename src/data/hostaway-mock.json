@@ -1,0 +1,362 @@
+[
+  {
+    "id": 7453,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Amazing stay! The apartment was spotless and perfectly located. Great communication from the host throughout our entire stay.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 9 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 8 },
+      { "category": "checkin", "rating": 9 },
+      { "category": "value", "rating": 8 }
+    ],
+    "submittedAt": "2024-01-15 14:30:00",
+    "guestName": "Sarah Johnson",
+    "listingName": "Modern 1BR Shoreditch Apartment"
+  },
+  {
+    "id": 7454,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Nice place, clean and well-equipped. Only issue was the noise from the street but overall good value for money.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 6 },
+      { "category": "accuracy", "rating": 8 },
+      { "category": "checkin", "rating": 8 },
+      { "category": "value", "rating": 10 }
+    ],
+    "submittedAt": "2024-01-15 11:30:00",
+    "guestName": "Mike Chen",
+    "listingName": "Cozy Studio Camden"
+  },
+  {
+    "id": 7455,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3,
+    "publicReview": "The apartment was nice but had some maintenance issues. The WiFi was unreliable and the heating didn't work properly during our stay.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 6 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 4 },
+      { "category": "checkin", "rating": 6 },
+      { "category": "value", "rating": 6 }
+    ],
+    "submittedAt": "2024-01-10 16:45:00",
+    "guestName": "Emma Wilson",
+    "listingName": "Luxury 2BR Canary Wharf"
+  },
+  {
+    "id": 7456,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Perfect location and beautiful apartment! Everything was exactly as described. The host was very responsive and helpful.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 10 },
+      { "category": "checkin", "rating": 9 },
+      { "category": "value", "rating": 9 }
+    ],
+    "submittedAt": "2024-01-08 12:30:00",
+    "guestName": "David Rodriguez",
+    "listingName": "Modern 1BR Shoreditch Apartment"
+  },
+  {
+    "id": 7457,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2,
+    "publicReview": "The apartment was not as clean as expected and the check-in process was confusing.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 4 },
+      { "category": "communication", "rating": 5 },
+      { "category": "location", "rating": 7 },
+      { "category": "accuracy", "rating": 5 },
+      { "category": "checkin", "rating": 3 },
+      { "category": "value", "rating": 4 }
+    ],
+    "submittedAt": "2024-01-07 09:00:00",
+    "guestName": "Anna Lee",
+    "listingName": "Central London Flat"
+  },
+  {
+    "id": 7458,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Great value for the price. The host was friendly and helpful.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 8 },
+      { "category": "location", "rating": 8 },
+      { "category": "accuracy", "rating": 7 },
+      { "category": "checkin", "rating": 8 },
+      { "category": "value", "rating": 9 }
+    ],
+    "submittedAt": "2024-01-06 13:20:00",
+    "guestName": "Tom Harris",
+    "listingName": "Cozy Studio Camden"
+  },
+  {
+    "id": 7459,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Absolutely loved the location and the amenities provided.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 9 },
+      { "category": "checkin", "rating": 10 },
+      { "category": "value", "rating": 9 }
+    ],
+    "submittedAt": "2024-01-05 11:10:00",
+    "guestName": "Linda Park",
+    "listingName": "Luxury 2BR Canary Wharf"
+  },
+  {
+    "id": 7460,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3,
+    "publicReview": "The apartment was okay, but the heating system was not working properly.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 7 },
+      { "category": "location", "rating": 8 },
+      { "category": "accuracy", "rating": 6 },
+      { "category": "checkin", "rating": 7 },
+      { "category": "value", "rating": 6 }
+    ],
+    "submittedAt": "2024-01-04 15:45:00",
+    "guestName": "James Smith",
+    "listingName": "Central London Flat"
+  },
+  {
+    "id": 7461,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Nice apartment, close to public transport. Would stay again.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 8 },
+      { "category": "location", "rating": 9 },
+      { "category": "accuracy", "rating": 8 },
+      { "category": "checkin", "rating": 8 },
+      { "category": "value", "rating": 8 }
+    ],
+    "submittedAt": "2024-01-03 17:30:00",
+    "guestName": "Maria Garcia",
+    "listingName": "Modern 1BR Shoreditch Apartment"
+  },
+  {
+    "id": 7462,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Fantastic host and a beautiful apartment. Highly recommend!",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 10 },
+      { "category": "checkin", "rating": 10 },
+      { "category": "value", "rating": 10 }
+    ],
+    "submittedAt": "2024-01-02 19:00:00",
+    "guestName": "Sophie Brown",
+    "listingName": "Luxury 2BR Canary Wharf"
+  },
+  {
+    "id": 7463,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Good location, but the apartment was a bit noisy at night.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 8 },
+      { "category": "location", "rating": 9 },
+      { "category": "accuracy", "rating": 7 },
+      { "category": "checkin", "rating": 8 },
+      { "category": "value", "rating": 7 }
+    ],
+    "submittedAt": "2024-01-01 20:10:00",
+    "guestName": "Oliver Evans",
+    "listingName": "Cozy Studio Camden"
+  },
+  {
+    "id": 7464,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Everything was perfect. Will definitely book again!",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 10 },
+      { "category": "checkin", "rating": 10 },
+      { "category": "value", "rating": 10 }
+    ],
+    "submittedAt": "2023-12-31 18:00:00",
+    "guestName": "Lucas White",
+    "listingName": "Modern 1BR Shoreditch Apartment"
+  },
+  {
+    "id": 7465,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3,
+    "publicReview": "The apartment was fine, but the WiFi was slow.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 7 },
+      { "category": "location", "rating": 8 },
+      { "category": "accuracy", "rating": 7 },
+      { "category": "checkin", "rating": 7 },
+      { "category": "value", "rating": 7 }
+    ],
+    "submittedAt": "2023-12-30 14:30:00",
+    "guestName": "Ella Green",
+    "listingName": "Central London Flat"
+  },
+  {
+    "id": 7466,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Great location and very clean. Would recommend.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 9 },
+      { "category": "communication", "rating": 9 },
+      { "category": "location", "rating": 9 },
+      { "category": "accuracy", "rating": 9 },
+      { "category": "checkin", "rating": 9 },
+      { "category": "value", "rating": 9 }
+    ],
+    "submittedAt": "2023-12-29 16:00:00",
+    "guestName": "Mason King",
+    "listingName": "Luxury 2BR Canary Wharf"
+  },
+  {
+    "id": 7467,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Wonderful stay! The host was very accommodating.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 10 },
+      { "category": "checkin", "rating": 10 },
+      { "category": "value", "rating": 10 }
+    ],
+    "submittedAt": "2023-12-28 12:00:00",
+    "guestName": "Chloe Scott",
+    "listingName": "Modern 1BR Shoreditch Apartment"
+  },
+  {
+    "id": 7468,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 2,
+    "publicReview": "The apartment was noisy and not as described.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 5 },
+      { "category": "communication", "rating": 6 },
+      { "category": "location", "rating": 6 },
+      { "category": "accuracy", "rating": 5 },
+      { "category": "checkin", "rating": 6 },
+      { "category": "value", "rating": 5 }
+    ],
+    "submittedAt": "2023-12-27 10:00:00",
+    "guestName": "Henry Adams",
+    "listingName": "Cozy Studio Camden"
+  },
+  {
+    "id": 7469,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Good value for money. The apartment was clean and comfortable.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 8 },
+      { "category": "location", "rating": 8 },
+      { "category": "accuracy", "rating": 8 },
+      { "category": "checkin", "rating": 8 },
+      { "category": "value", "rating": 8 }
+    ],
+    "submittedAt": "2023-12-26 09:30:00",
+    "guestName": "Grace Turner",
+    "listingName": "Central London Flat"
+  },
+  {
+    "id": 7470,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 5,
+    "publicReview": "Exceptional experience! The apartment exceeded our expectations.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 10 },
+      { "category": "communication", "rating": 10 },
+      { "category": "location", "rating": 10 },
+      { "category": "accuracy", "rating": 10 },
+      { "category": "checkin", "rating": 10 },
+      { "category": "value", "rating": 10 }
+    ],
+    "submittedAt": "2023-12-25 11:00:00",
+    "guestName": "Jack Lee",
+    "listingName": "Luxury 2BR Canary Wharf"
+  },
+  {
+    "id": 7471,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 4,
+    "publicReview": "Spacious apartment with a great view. The kitchen was well-equipped and the host provided excellent local tips.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 8 },
+      { "category": "communication", "rating": 9 },
+      { "category": "location", "rating": 9 },
+      { "category": "accuracy", "rating": 8 },
+      { "category": "checkin", "rating": 9 },
+      { "category": "value", "rating": 8 }
+    ],
+    "submittedAt": "2023-12-24 15:00:00",
+    "guestName": "Nina Patel",
+    "listingName": "Riverside 3BR Apartment"
+  },
+  {
+    "id": 7472,
+    "type": "guest-to-host",
+    "status": "published",
+    "rating": 3,
+    "publicReview": "Decent stay overall, but the apartment was a bit smaller than expected. The host was responsive and check-in was smooth.",
+    "reviewCategory": [
+      { "category": "cleanliness", "rating": 7 },
+      { "category": "communication", "rating": 8 },
+      { "category": "location", "rating": 8 },
+      { "category": "accuracy", "rating": 6 },
+      { "category": "checkin", "rating": 8 },
+      { "category": "value", "rating": 7 }
+    ],
+    "submittedAt": "2023-12-23 12:45:00",
+    "guestName": "Paul Müller",
+    "listingName": "Bright Loft Notting Hill"
+  }
+]
