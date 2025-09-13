@@ -1,5 +1,8 @@
 # Flex Living – Reviews Dashboard
 
+## Live Demo
+[Flex Living Dashboard](http://flex-living-2067461247.ap-southeast-1.elb.amazonaws.com/dashboard)
+
 ## What this is
 Manager dashboard to review and publish guest reviews to the public property page. Data is normalized from the Hostaway mock and filtered/sorted client side via a Next.js API.
 
