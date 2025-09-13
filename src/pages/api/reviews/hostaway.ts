@@ -144,9 +144,6 @@ export default async function handler(
     const total = reviews.length;
     const data = reviews.slice(offsetNum, offsetNum + limitNum);
 
-    // Optional: small caching to reduce CPU on repeated loads of mock data
-    res.setHeader('Cache-Control', 'max-age=30, s-maxage=60');
-
     return res.status(200).json({ status: 'success', data, total });
   } catch (e) {
     console.error('GET /reviews/hostaway error:', e);

@@ -91,9 +91,6 @@ export default async function handler(
       };
     });
 
-    // Optional: soft caching
-    res.setHeader('Cache-Control', 'max-age=30, s-maxage=60');
-
     return res.status(200).json({ status: 'success', data, total: data.length });
   } catch (e) {
     console.error('GET /properties error:', e);
