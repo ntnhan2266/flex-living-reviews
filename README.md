@@ -34,6 +34,16 @@ Manager dashboard to review and publish guest reviews to the public property pag
 `POST /api/reviews/approve` → body `{ reviewId }` → sets status=approved  
 `POST /api/reviews/reset` → body `{ reviewId }` → sets status=pending
 
+
+## Prerequisite
+
+- **Node.js 20.x** (required)
+	- You can check your version with:
+		```bash
+		node -v
+		```
+	- [Download Node.js 20 LTS](https://nodejs.org/en/download)
+
 ## Run locally
 ```bash
 # 0. Clone code
